@@ -1,0 +1,25 @@
+{
+  "name": "passport-mandrill",
+  "version": "1.0.0",
+  "description": "Mandrill authentication via Passport",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/datahero/passport-mandrill.git"
+  },
+  "keywords": [
+    "Mandrill"
+  ],
+  "author": "Datahero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datahero/passport-mandrill/issues"
+  },
+  "homepage": "https://github.com/datahero/passport-mandrill#readme",
+  "dependencies": {
+    "passport-strategy": "^1.0.0"
+  }
+}
